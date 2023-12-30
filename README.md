@@ -37,8 +37,7 @@ Publish the website in the given URL.
 ## PROGRAM :
 
 ### Code for home page:
-
-
+```
 <html>
 <title>TECCOL</title>
 <style>
@@ -208,12 +207,12 @@ Publish the website in the given URL.
 
 </body>
 <footer style="background-color:rgb(233, 154, 7);margin-top:240 ; border: none;">
-    <P style="color:#0b0a0a; ;"align="center">Designed and Devoloped by AKASH KUMAR M (212223230010) </P>
+    <P style="color:#0b0a0a; ;"align="center">Designed and Devoloped by Dharshini K (23010696) </P>
 </footer>
 </html
-
+```
 ### codes for peoplepage:
-
+```
 
 <html>
 <title>People</title>
@@ -325,13 +324,13 @@ Publish the website in the given URL.
 
 </body>
 <footer style="background-color:rgb(229, 104, 21);margin-top: 235; border: none;">
-    <P style="color:#080707; ;"align="center">Designed and Devoloped by AKASH KUMAR M. (212223230010) </P>
+    <P style="color:#080707; ;"align="center">Designed and Devoloped by Dharshini K (23010696) </P>
 </footer>
 </html>
-
+```
 ### codes for contactpage:
 
-
+```
 <!DOCTYPE html>
 <html>
 <head>
@@ -493,12 +492,12 @@ border:2px solid white;
     </div>
 </body>
 <footer style="background-color:rgb(239, 154, 7);margin-top: 210px; border: none;">
-    <P style="color:black ;"align="center">Designed and Devoloped by  AKASH KUMAR M. (212223230010) </P>
+    <P style="color:black ;"align="center">Designed and Devoloped by  Dharshini K (23010696) </P>
 </footer>
 </html
-
+```
 ### codes for productpage:
-
+```
 
 <html>
     <title>our products</title>
@@ -614,10 +613,10 @@ border:2px solid white;
     </center>
     </body>
     <footer style="background-color:rgb(255, 123, 0);margin-top: 170; border: none;">
-        <P style="color:black; ;"align="center">Designed and Devoloped by AKASH KUMAR M. (212223230010) </P>
+        <P style="color:black; ;"align="center">Designed and Devoloped by Dharshini K (23010696) </P>
     </footer>
 </html
-
+```
 ## OUTPUT:
 
 ### Home Page:
